@@ -61,11 +61,13 @@ Aspiring Data Analyst and Internship Trainee with a strong interest in data anal
 
 
 📌 Skills: Python, pandas, Data Analysis, Sentiment Analysis, NLP, Data Visualization
+
 📚 Tools: Google Colab, seaborn, TextBlob, VADER
+
 🎯 Focus Areas: Survey Analysis, Student Feedback Analytics, Real-world Data Projects
 
 
 
-🔗 LinkedIn: [Your LinkedIn Profile Link]
+🔗 LinkedIn: [Checkout the link here]()
 
-💻 GitHub: [Your GitHub Profile Link]
+💻 GitHub: [Checkout the link here](https://github.com/Keerthana-Mathaiyan/)
