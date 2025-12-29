@@ -68,6 +68,6 @@ Aspiring Data Analyst and Internship Trainee with a strong interest in data anal
 
 
 
-🔗 LinkedIn: [Checkout the link here]()
+🔗 LinkedIn: [Checkout the link here](https://www.linkedin.com/in/keerthana-mathaiyan/)
 
 💻 GitHub: [Checkout the link here](https://github.com/Keerthana-Mathaiyan/)
